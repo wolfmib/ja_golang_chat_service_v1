@@ -1,0 +1,1 @@
+docker build --tag=ja_chat_service_v1 .

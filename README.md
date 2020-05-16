@@ -19,3 +19,14 @@
   - protoc -I proto proto/chat.proto --go_out=plugins=grpc:proto
 
 ---
+
+## Docker build 🐟
+
+---
+
+- under root_folder
+- Build images: ja_chat_service_v1 ✅
+
+  - docker build --tag=ja_chat_service_v1 .
+
+-
