@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	proto "github.com/wolfmib/ja_golang_chat_service_v1/proto/chat"
+	proto "github.com/wolfmib/ja_golang_chat_service_v1/proto"
 	glog "google.golang.org/grpc/grpclog"
 
 	"log"
